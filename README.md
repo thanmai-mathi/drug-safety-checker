@@ -72,12 +72,12 @@ Built as an MCP server with the following tools:
 
 ## 👥 Team
 
- Name & Role :
-
-Kusuma Sasapu : Authenticity Checker — tool logic & dataset 
-Thanmai Mathi : Interaction Checker — tool logic & dataset 
-Chathurya Singuru : Safety Summary & Report Widget 
-Neekshitha Cheevuru : Testing, QA & Documentation 
+| Name | Role |
+|---|---|
+| [ Kusuma Sasapu ] | Authenticity Checker — tool logic & dataset |
+| [ Thanmai Mathi ] | Interaction Checker — tool logic & dataset |
+| [ Chathurya Singuru ] | Safety Summary & Report Widget |
+| [ Neekshitha Cheevuru ] | Testing, QA & Documentation |
 
 ---
 
